@@ -1,4 +1,4 @@
 # Time
-What does time look like?
+How much time do we have?
 
-Time makes sense in small pieces. 
+This simple code covers the basics of Python. 
